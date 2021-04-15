@@ -2,6 +2,7 @@
 <h2>Feezial </h2>
 <strong>Contectme:</strong>
 <br>
+<br>
 <code>
 <a href="">
   <img height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -19,6 +20,8 @@
 </code>
 <br>
 <strong>Languages and Tools:</strong>
+<br>
+<br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
