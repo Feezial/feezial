@@ -1,6 +1,6 @@
 ### Hey there 👋
 <h2>UnNameXD </h2>
- <img height="230" align="center" src="https://i.pinimg.com/474x/10/91/94/1091948c6b80b65b9eef8c163f0ae42a.jpgt" />
+ <img height="230" align="center" src="https://i.pinimg.com/474x/10/91/94/1091948c6b80b65b9eef8c163f0ae42a.jpg" />
 <code><img src""></code>
 <strong>Contectme:</strong>
 <br>
