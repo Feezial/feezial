@@ -31,5 +31,5 @@
 <a href="https://github.com/Feezial">
   <br>
   <br>
-  <img height="230" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnNameXD&repo=github-readme-stats" />
+  <img height="230" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
