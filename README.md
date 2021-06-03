@@ -1,6 +1,6 @@
 ### Hey there 👋
 <h2>UnNameXD </h2>
- <img height="230" align="center" src="https://i.pinimg.com/474x/10/91/94/1091948c6b80b65b9eef8c163f0ae42a.jpg" />
+ <img height="230" align="center" style"border-radius:30px;" src="https://i.pinimg.com/474x/10/91/94/1091948c6b80b65b9eef8c163f0ae42a.jpg" />
 <code><img src""></code>
 <strong>Contectme:</strong>
 <br>
@@ -30,8 +30,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<a href="https://github.com/Feezial">
-  <br>
-  <br>
-  <img height="230" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UnBaneXD&repo=convoychat" />
-</a>
