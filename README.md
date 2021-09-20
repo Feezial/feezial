@@ -4,5 +4,5 @@
  Hello I'm <b><a></a></b>
   <samp>
    
-   <img src="https://discord.com/channels/@me/820283198747574292/889519941512994926" >
+   <img src="https://cdn.discordapp.com/attachments/820283198747574292/889519941248778240/giphy.gif" >
 </p>
