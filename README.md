@@ -27,7 +27,7 @@
           &nbsp;
     <samp>
     <br>You can visit my website at <a rel="nofollow noopener noreferrer" target="_blank" href="">My Website</a></b>.<br>
-   <img src="https://discord.c99.nl/widget/theme-2/670988132182654986.png">
+   <br><img src="https://discord.c99.nl/widget/theme-2/670988132182654986.png">
     </samp>
   </p> 
 </p>
