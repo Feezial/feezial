@@ -32,6 +32,7 @@
   </p> 
  
  <br>
+</p>
  ```javascript 
  const Feezial = {
      Language:["Javascript", "php"],
@@ -40,4 +41,3 @@
  };
  ```
  
-</p>
