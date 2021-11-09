@@ -30,4 +30,14 @@
    <br><img src="https://discord.c99.nl/widget/theme-2/670988132182654986.png">
     </samp>
   </p> 
+ 
+ <br>
+ ```javascript 
+ const Feezial = {
+     Language:["Javascript", "php"],
+     Framework:["Vuejs","Jquery"],
+     Tools:["Postman"]
+ };
+ ```
+ 
 </p>
