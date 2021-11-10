@@ -36,7 +36,7 @@
 
  ```javascript 
  const Feezial = {
-     Language:["Javascript", "php"],
+     Language:["Javascript", "php","Mysql","Html"],
      Framework:["Vuejs","Jquery"],
      Tools:["Postman"]
  };
