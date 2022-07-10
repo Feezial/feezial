@@ -27,7 +27,8 @@
           &nbsp;
     <samp>
     <br>You can visit my website at <a rel="nofollow noopener noreferrer" target="_blank" href="">My Website</a></b>.<br>
-   <br><img src="https://discord.c99.nl/widget/theme-2/670988132182654986.png">
+   <br><img src="https://discord.c99.nl/widget/theme-2/670988132182654986.png"><br>
+   <a href="https://app.daily.dev/Feez1al"><img src="https://api.daily.dev/devcards/71878fa6e4c84033953c1ede0daf9f08.png?r=jty" width="400" alt="Feez1al's Dev Card"/></a>
     </samp>
   </p> 
  
